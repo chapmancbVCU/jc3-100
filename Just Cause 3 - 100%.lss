@@ -1852,6 +1852,28 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Tape 18/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part W5/14</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>A Long Dangerous</Name>
       <Icon />
       <SplitTimes>
@@ -1869,6 +1891,17 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Tape 19/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Liberate Soliana</Name>
       <Icon />
       <SplitTimes>
@@ -1883,6 +1916,17 @@
         <Time id="27">
           <RealTime>00:03:17.4900460</RealTime>
         </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Massos Bridge Blast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1920,6 +1964,80 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Tape 20/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Shrine W4/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Jump W1/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sniper Rifle Frenzy II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Undertown Tour</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Jump W2/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Jump W3/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tape 21/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="0" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Liberate Vico Thunno</Name>
       <Icon />
       <SplitTimes>
@@ -1928,12 +2046,34 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:10.9669240</RealTime>
+        <RealTime>00:01:10.9669250</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="27">
-          <RealTime>00:01:10.9669240</RealTime>
+        <Time id="0">
+          <RealTime>00:01:10.9669250</RealTime>
         </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part W6/14</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part W7/14</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1971,6 +2111,72 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Liberate Guardia Capite I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shrine W5/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jump W4/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jump W5/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shrine W6/10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part W8/14</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Tangled up in Blue</Name>
       <Icon />
       <SplitTimes>
@@ -2005,6 +2211,39 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Shrine N4/21</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Revolver Training Course</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shrine N5/21</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Derailed Extraction</Name>
       <Icon />
       <SplitTimes>
@@ -2013,11 +2252,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:41.1794949</RealTime>
+        <RealTime>00:06:41.1794940</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="27">
-          <RealTime>00:06:41.1794949</RealTime>
+          <RealTime>00:06:41.1794940</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -2039,6 +2278,29 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Tomb 7/23</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shrine N6/21</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Bavarium on a Plane</Name>
       <Icon />
       <SplitTimes>
@@ -2053,6 +2315,97 @@
         <Time id="27">
           <RealTime>00:08:28.7463210</RealTime>
         </Time>
+        <Time id="-2">
+          <RealTime>00:08:28.7463200</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tape 22/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tape 23/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Costa Sud II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Costa Sud I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tomb 8/23</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shrine N7/21</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part N9/22</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tape 24/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2070,6 +2423,17 @@
         <Time id="27">
           <RealTime>00:05:47.5989540</RealTime>
         </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tape 25/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2107,6 +2471,39 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>FOW Frenzy</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Part N10/22</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tape 26/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Son of Medici</Name>
       <Icon />
       <SplitTimes>
@@ -2122,6 +2519,105 @@
           <RealTime>00:06:30.3446270</RealTime>
         </Time>
       </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Griphon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Platteforma Costa Sud I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Griphon Tour</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tape 27/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Perla Est</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tape 28/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Jump N2/7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Shrine N8/21</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Jet Frenzy II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tape 29/71</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Cirilla</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />
