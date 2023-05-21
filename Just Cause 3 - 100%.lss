@@ -89,7 +89,7 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>Jump E1/13</Name>
+      <Name>Daredevil Jump E1/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -278,7 +278,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E1/18</Name>
+      <Name>Vintage Part E1/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -315,7 +315,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E1/18</Name>
+      <Name>Rebel Shrine E1/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -342,7 +342,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E2/18</Name>
+      <Name>Rebel Shrine E2/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -360,7 +360,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E3/18</Name>
+      <Name>Rebel Shrine E3/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -378,7 +378,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E2/13</Name>
+      <Name>Daredevil Jump E2/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -387,7 +387,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E3/13</Name>
+      <Name>Daredevil Jump E3/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -405,7 +405,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E2/18</Name>
+      <Name>Vintage Part E2/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -414,7 +414,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E4/18</Name>
+      <Name>Rebel Shrine E4/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -622,7 +622,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N1/21</Name>
+      <Name>Rebel Shrine N1/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -633,7 +633,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Jump N1/7</Name>
+      <Name>Daredevil Jump N1/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -689,7 +689,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N2/21</Name>
+      <Name>Rebel Shrine N2/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -722,7 +722,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N1/22</Name>
+      <Name>Vintage Part N1/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -774,7 +774,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N2/22</Name>
+      <Name>Vintage Part N2/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -840,7 +840,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N3/22</Name>
+      <Name>Vintage Part N3/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -873,7 +873,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N4/22</Name>
+      <Name>Vintage Part N4/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -906,7 +906,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N5/22</Name>
+      <Name>Vintage Part N5/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -950,7 +950,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N6/22</Name>
+      <Name>Vintage Part N6/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -961,7 +961,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N7/22</Name>
+      <Name>Vintage Part N7/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -983,7 +983,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N5/22</Name>
+      <Name>Vintage Part N5/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1049,7 +1049,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N3/21</Name>
+      <Name>Rebel Shrine N3/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1167,7 +1167,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E5/18</Name>
+      <Name>Rebel Shrine E5/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1189,7 +1189,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E6/18</Name>
+      <Name>Rebel Shrine E6/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1228,7 +1228,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Jump E4/13</Name>
+      <Name>Daredevil Jump E4/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1261,7 +1261,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E3/18</Name>
+      <Name>Vintage Part E3/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1272,7 +1272,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E7/18</Name>
+      <Name>Rebel Shrine E7/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1300,7 +1300,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E4/18</Name>
+      <Name>Vintage Part E4/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1328,7 +1328,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Jump E5/13</Name>
+      <Name>Daredevil Jump E5/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1339,7 +1339,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E8/18</Name>
+      <Name>Rebel Shrine E8/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1361,7 +1361,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E5//18</Name>
+      <Name>Vintage Part E5//18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1383,7 +1383,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E9/18</Name>
+      <Name>Rebel Shrine E9/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1422,7 +1422,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E6/18</Name>
+      <Name>Vintage Part E6/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1433,7 +1433,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E7/18</Name>
+      <Name>Vintage Part E7/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1444,7 +1444,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part E8/18</Name>
+      <Name>Vintage Part E8/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1455,7 +1455,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E10/18</Name>
+      <Name>Rebel Shrine E10/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1494,7 +1494,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine E11/18</Name>
+      <Name>Rebel Shrine E11/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1522,7 +1522,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine W1/10</Name>
+      <Name>Rebel Shrine W1/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1533,7 +1533,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W1/14</Name>
+      <Name>Vintage Part W1/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1544,7 +1544,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W2/14</Name>
+      <Name>Vintage Part W2/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1596,7 +1596,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine W2/10</Name>
+      <Name>Rebel Shrine W2/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1605,7 +1605,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W3/14</Name>
+      <Name>Vintage Part W3/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1638,7 +1638,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W4/14</Name>
+      <Name>Vintage Part W4/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1649,7 +1649,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine W3/14</Name>
+      <Name>Rebel Shrine W3/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1849,7 +1849,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W5/14</Name>
+      <Name>Vintage Part W5/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1959,7 +1959,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine W4/10</Name>
+      <Name>Rebel Shrine W4/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1968,7 +1968,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W1/10</Name>
+      <Name>Daredevil Jump W1/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1995,7 +1995,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W2/10</Name>
+      <Name>Daredevil Jump W2/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2004,7 +2004,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W3/10</Name>
+      <Name>Daredevil Jump W3/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2041,7 +2041,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W6/14</Name>
+      <Name>Vintage Part W6/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2052,7 +2052,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W7/14</Name>
+      <Name>Vintage Part W7/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2108,7 +2108,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine W5/10</Name>
+      <Name>Rebel Shrine W5/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2119,7 +2119,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Jump W4/10</Name>
+      <Name>Daredevil Jump W4/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2130,7 +2130,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Jump W5/10</Name>
+      <Name>Daredevil Jump W5/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2141,7 +2141,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine W6/10</Name>
+      <Name>Rebel Shrine W6/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2152,7 +2152,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part W8/14</Name>
+      <Name>Vintage Part W8/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2197,7 +2197,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N4/21</Name>
+      <Name>Rebel Shrine N4/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2219,7 +2219,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N5/21</Name>
+      <Name>Rebel Shrine N5/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2275,7 +2275,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N6/21</Name>
+      <Name>Rebel Shrine N6/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2362,7 +2362,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shrine N7/21</Name>
+      <Name>Rebel Shrine N7/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2373,7 +2373,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N9/22</Name>
+      <Name>Vintage Part N9/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2468,7 +2468,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Part N10/22</Name>
+      <Name>Vintage Part N10/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2561,7 +2561,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N2/7</Name>
+      <Name>Daredevil Jump N2/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2570,7 +2570,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N8/21</Name>
+      <Name>Rebel Shrine N8/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2615,7 +2615,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E9/18</Name>
+      <Name>Vintage Part E9/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2624,7 +2624,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E12/18</Name>
+      <Name>Rebel Shrine E12/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2705,7 +2705,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N11/22</Name>
+      <Name>Vintage Part N11/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2723,7 +2723,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W6/10</Name>
+      <Name>Daredevil Jump W6/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2741,7 +2741,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E6/13</Name>
+      <Name>Daredevil Jump E6/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2750,7 +2750,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E10/18</Name>
+      <Name>Vintage Part E10/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2795,7 +2795,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E11/18</Name>
+      <Name>Vintage Part E11/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2813,7 +2813,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E13/18</Name>
+      <Name>Rebel Shrine E13/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2858,7 +2858,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E12/18</Name>
+      <Name>Vintage Part E12/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2912,7 +2912,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E7/13</Name>
+      <Name>Daredevil Jump E7/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2957,7 +2957,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E13/18</Name>
+      <Name>Vintage Part E13/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3047,7 +3047,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N9/21</Name>
+      <Name>Rebel Shrine N9/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3101,7 +3101,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N10/21</Name>
+      <Name>Rebel Shrine N10/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3182,7 +3182,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E8/13</Name>
+      <Name>Daredevil Jump E8/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3209,7 +3209,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E9/13</Name>
+      <Name>Daredevil Jump E9/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3227,7 +3227,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E14/18</Name>
+      <Name>Rebel Shrine E14/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3245,7 +3245,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E10/13</Name>
+      <Name>Daredevil Jump E10/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3254,7 +3254,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E14/18</Name>
+      <Name>Vintage Part E14/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3263,7 +3263,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E15/18</Name>
+      <Name>Rebel Shrine E15/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3344,7 +3344,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E15/18</Name>
+      <Name>Vintage Part E15/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3353,7 +3353,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E16/18</Name>
+      <Name>Vintage Part E16/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3416,7 +3416,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W7/10</Name>
+      <Name>Daredevil Jump W7/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3497,7 +3497,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine W7/10</Name>
+      <Name>Rebel Shrine W7/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3578,7 +3578,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine W8/10</Name>
+      <Name>Rebel Shrine W8/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3587,7 +3587,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W9/14</Name>
+      <Name>Vintage Part W9/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3641,7 +3641,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W8/10</Name>
+      <Name>Daredevil Jump W8/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3650,7 +3650,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W10/14</Name>
+      <Name>Vintage Part W10/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3659,7 +3659,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W11/14</Name>
+      <Name>Vintage Part W11/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3677,7 +3677,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine W9/10</Name>
+      <Name>Rebel Shrine W9/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3686,7 +3686,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W12/14</Name>
+      <Name>Vintage Part W12/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3713,7 +3713,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W13/14</Name>
+      <Name>Vintage Part W13/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3722,7 +3722,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part W14/14</Name>
+      <Name>Vintage Part W14/14</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3749,7 +3749,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W9/10</Name>
+      <Name>Daredevil Jump W9/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3830,7 +3830,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine W10/10</Name>
+      <Name>Rebel Shrine W10/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3839,7 +3839,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump W10/10</Name>
+      <Name>Daredevil Jump W10/10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3911,7 +3911,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N3/7</Name>
+      <Name>Daredevil Jump N3/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3956,7 +3956,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N5/21</Name>
+      <Name>Rebel Shrine N5/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3965,7 +3965,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N12/22</Name>
+      <Name>Vintage Part N12/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4100,7 +4100,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N12/21</Name>
+      <Name>Rebel Shrine N12/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4127,7 +4127,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N13/22</Name>
+      <Name>Vintage Part N13/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4145,7 +4145,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E16/18</Name>
+      <Name>Rebel Shrine E16/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4154,7 +4154,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E17/18</Name>
+      <Name>Vintage Part E17/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4199,7 +4199,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N14/22</Name>
+      <Name>Vintage Part N14/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4217,7 +4217,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N4/7</Name>
+      <Name>Daredevil Jump N4/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4289,7 +4289,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N15/22</Name>
+      <Name>Vintage Part N15/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4343,7 +4343,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N13/21</Name>
+      <Name>Rebel Shrine N13/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4352,7 +4352,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N14/21</Name>
+      <Name>Rebel Shrine N14/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4361,7 +4361,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N16/22</Name>
+      <Name>Vintage Part N16/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4370,7 +4370,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N15/21</Name>
+      <Name>Rebel Shrine N15/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4379,7 +4379,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N16/21</Name>
+      <Name>Rebel Shrine N16/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4433,7 +4433,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stunt Jump Sprint</Name>
+      <Name>Stunt Daredevil Jump Sprint</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4487,7 +4487,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N17/22</Name>
+      <Name>Rebel Shrine N17/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4505,7 +4505,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N17/22</Name>
+      <Name>Vintage Part N17/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4559,7 +4559,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N18/22</Name>
+      <Name>Vintage Part N18/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4604,7 +4604,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N18/21</Name>
+      <Name>Rebel Shrine N18/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4631,7 +4631,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N19/21</Name>
+      <Name>Rebel Shrine N19/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4730,7 +4730,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N19/22</Name>
+      <Name>Vintage Part N19/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4748,7 +4748,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N5/7</Name>
+      <Name>Daredevil Jump N5/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4757,7 +4757,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N20/22</Name>
+      <Name>Vintage Part N20/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4784,7 +4784,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N20/21</Name>
+      <Name>Rebel Shrine N20/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4793,7 +4793,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N6/7</Name>
+      <Name>Daredevil Jump N6/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4811,7 +4811,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N21/22</Name>
+      <Name>Vintage Part N21/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4838,7 +4838,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump N7/7</Name>
+      <Name>Daredevil Jump N7/7</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4883,7 +4883,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part N22/22</Name>
+      <Name>Vintage Part N22/22</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -4982,7 +4982,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine N21/21</Name>
+      <Name>Rebel Shrine N21/21</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5000,7 +5000,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E11/13</Name>
+      <Name>Daredevil Jump E11/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5018,7 +5018,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump 12/13</Name>
+      <Name>Daredevil Jump 12/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5054,7 +5054,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E17/18</Name>
+      <Name>Rebel Shrine E17/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5081,7 +5081,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump E13/13</Name>
+      <Name>Daredevil Jump E13/13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5090,7 +5090,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Shrine E18/18</Name>
+      <Name>Rebel Shrine E18/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -5126,7 +5126,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Part E18/18</Name>
+      <Name>Vintage Part E18/18</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
