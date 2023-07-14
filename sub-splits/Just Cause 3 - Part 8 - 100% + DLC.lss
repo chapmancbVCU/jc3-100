@@ -627,6 +627,15 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>---------- Part 9 ----------</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>Badlands Tour</Name>
       <Icon />
       <SplitTimes>
