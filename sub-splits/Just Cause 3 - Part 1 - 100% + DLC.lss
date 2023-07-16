@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
+  <AttemptCount>3</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
       <PauseTime>21:53:38.9590000</PauseTime>
@@ -108,241 +108,462 @@
       <RealTime>00:57:57.5592026</RealTime>
       <PauseTime>00:42:47.1949004</PauseTime>
     </Attempt>
+    <Attempt id="35" started="07/15/2023 21:09:57" isStartedSynced="True" ended="07/15/2023 21:18:49" isEndedSynced="True" />
+    <Attempt id="36" started="07/15/2023 21:19:45" isStartedSynced="True" ended="07/15/2023 22:14:23" isEndedSynced="True">
+      <RealTime>00:54:37.9622411</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Daredevil Jump E1/13</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:47.2524194</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:31.2223155</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:04:31.2223155</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:04:47.2524194</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Welcome Home</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:47.1104478</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:49.9790575</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:49.9790575</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:01:59.8580284</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Guardia Alpha</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:50.9457165</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:03.8352687</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:06.6228346</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:01:03.8352687</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Time for an Upgrade</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:10.5760895</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:19.6303730</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:19.6303730</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Di Ravello Tape 1/17</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:34.6145382</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:24.0384487</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:24.0384487</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Manaea</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:54.3476265</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:19.7330883</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:19.7330883</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Manaea Tour</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:50.3441538</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:55.9965273</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:55.9965273</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Mario's Rebel Drops</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:08.3153641</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:17.9712103</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:03:17.9712103</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Vis Electra</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:19.3126122</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:10.9972481</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:10.9972481</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Guardia Sirocco III</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:33.9042712</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:14.5916590</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:14.5916590</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>A Terrible Reaction</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:56.5373924</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:22.6331212</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:03:22.6331212</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Vintage Part E1/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:53.2845679</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:56.7471755</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:56.7471755</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Friends Like These</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:13.7558564</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:20.4712885</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:20.4712885</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Hillside Sprint</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:58.3250933</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:44.5692369</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:44.5692369</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rebel Shrine E1/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:13.5651080</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:15.2400147</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:15.2400147</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Cavern Tour</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:36.4796011</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:22.9144931</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:22.9144931</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Di Ravello Tape 2/17</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:59.8638977</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:23.3842966</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:23.3842966</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rebel Shrine E2/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:12.1660255</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:12.3021278</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:12.3021278</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Alba</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:19.6079200</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:07.4418945</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:07.4418945</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rebel Shrine E3/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:39.2842374</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:19.6763174</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:02:19.6763174</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Di Ravello Tape 3/71</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:58.6422593</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:19.3580219</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:03:19.3580219</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Daredevil Jump E2/13</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:21.2783000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:22.6360407</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:22.6360407</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Daredevil Jump E3/13</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:14.3678645</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:53.0895645</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:05:53.0895645</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Shotgun Training Course</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:53:52.1198434</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:07:37.7519789</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:07:37.7519789</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Vintage Part E2/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:19.5737624</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:27.4539190</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:27.4539190</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rebel Shrine E4/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:37.9622411</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:18.3884787</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:18.3884787</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
