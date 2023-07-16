@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 4</GameName>
+  <GameName>Just Cause 3 - Part 4     1:54:34</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -116,24 +116,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 4 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:00.3750214</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:00.3750214</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29" />
-        <Time id="36">
-          <RealTime>00:00:00.3750214</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Liberate Cima Leon: Centcom</Name>
       <Icon />
       <SplitTimes>
@@ -142,23 +124,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:10.5902223</RealTime>
+        <RealTime>00:02:10.9652437</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:03:20.3593100</RealTime>
-        </Time>
-        <Time id="-3">
-          <RealTime>00:04:45.3564790</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:03:02.9724740</RealTime>
-        </Time>
         <Time id="29">
           <RealTime>02:51:52.3091950</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:02:10.5902223</RealTime>
+          <RealTime>00:02:10.9652437</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
