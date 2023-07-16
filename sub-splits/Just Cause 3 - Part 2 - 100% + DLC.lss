@@ -151,7 +151,6 @@
         <RealTime>00:00:56.2142674</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="27">
           <RealTime>00:01:25.1148200</RealTime>
         </Time>
@@ -184,7 +183,6 @@
         <Time id="-4">
           <RealTime>00:04:01.8316920</RealTime>
         </Time>
-        <Time id="-3" />
         <Time id="27">
           <RealTime>00:07:26.8056160</RealTime>
         </Time>
@@ -214,7 +212,6 @@
         <RealTime>00:02:21.4333730</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="29">
           <RealTime>00:02:21.4333730</RealTime>
         </Time>
@@ -241,7 +238,6 @@
         <Time id="-4">
           <RealTime>00:01:49.2885580</RealTime>
         </Time>
-        <Time id="-3" />
         <Time id="29">
           <RealTime>00:01:49.2885570</RealTime>
         </Time>
@@ -265,7 +261,6 @@
         <RealTime>00:02:59.3121970</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="29">
           <RealTime>00:02:59.3121970</RealTime>
         </Time>
@@ -292,8 +287,6 @@
         <Time id="-4">
           <RealTime>00:04:31.7938140</RealTime>
         </Time>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:04:31.7938130</RealTime>
         </Time>
@@ -317,8 +310,6 @@
         <RealTime>00:00:46.8848005</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:00:48.5708610</RealTime>
         </Time>
@@ -345,8 +336,6 @@
         <Time id="-4">
           <RealTime>00:01:00.0318020</RealTime>
         </Time>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:01:00.0318010</RealTime>
         </Time>
@@ -370,8 +359,6 @@
         <RealTime>00:04:40.8626402</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:04:46.6714920</RealTime>
         </Time>
@@ -395,8 +382,6 @@
         <RealTime>00:02:12.2898897</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:03:26.7345310</RealTime>
         </Time>
@@ -423,8 +408,6 @@
         <Time id="-4">
           <RealTime>00:01:52.4746790</RealTime>
         </Time>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:01:52.4746780</RealTime>
         </Time>
@@ -451,8 +434,6 @@
         <Time id="-4">
           <RealTime>00:03:01.5099530</RealTime>
         </Time>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:03:01.5099520</RealTime>
         </Time>
@@ -479,8 +460,6 @@
         <Time id="-4">
           <RealTime>00:01:44.1060470</RealTime>
         </Time>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:01:44.1060460</RealTime>
         </Time>
@@ -504,8 +483,6 @@
         <RealTime>00:02:01.9423315</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="29">
           <RealTime>00:03:37.4188960</RealTime>
         </Time>
@@ -514,909 +491,6 @@
         </Time>
         <Time id="35">
           <RealTime>00:02:01.9423315</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Cava Montana</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:35:34.0606039</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:50.2107100</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:50.2107110</RealTime>
-        </Time>
-        <Time id="-3" />
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:00:50.2107100</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:36.5099541</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Guardia Litore Torto I</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:36:44.6124332</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:59.4732850</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27">
-          <RealTime>00:01:05.4459440</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:59.4732850</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:10.5518293</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Rebel Shrine N1/21</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:37:51.4518878</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:04.8637880</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:04.8637890</RealTime>
-        </Time>
-        <Time id="-3" />
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:01:04.8637880</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:06.8394546</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Daredevil Jump N1/7</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:38:13.3173012</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:21.8654134</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:30.8730350</RealTime>
-        </Time>
-        <Time id="-3" />
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:00:30.8730340</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:21.8654134</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 4/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:39:26.7944285</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:12.0532140</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:01:12.0532140</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:13.4771273</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Platteforma Litore Toro I</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:40:53.3081644</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:24.1998480</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:24.1998490</RealTime>
-        </Time>
-        <Time id="-3">
-          <RealTime>00:23:55.9769160</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:02:52.4429940</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:24.1998480</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:26.5137359</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Guardia Litore Torto II</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:41:50.3381640</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:57.0299996</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:18.7482070</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:00:58.9129180</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:18.7482060</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:57.0299996</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Rebel Shrine N2/21</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:42:13.9538137</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:23.6156497</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:30.5988480</RealTime>
-        </Time>
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:00:30.5988470</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:23.6156497</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 5/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:43:06.5761483</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:52.6223346</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:01:21.6777550</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:52.6223346</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 1/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:43:24.5876956</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:18.0115473</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:18.5727950</RealTime>
-        </Time>
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:00:18.5727930</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:18.0115473</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N1/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:44:21.3655977</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:56.7779021</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:14.6758800</RealTime>
-        </Time>
-        <Time id="27" />
-        <Time id="29">
-          <RealTime>00:01:14.6758810</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:56.7779021</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Guardia Litore Torto III</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:45:07.5768379</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:43.5862010</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:43.5862020</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:01:39.5209280</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:43.5862010</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:46.2112402</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Platteforma Litore Toro II</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:46:08.3472832</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:02.8630760</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:02:14.9365600</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:00:02.8630760</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:02:14.9365590</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:00.7704453</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 2/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:46:44.8495474</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:36.5022642</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:00:45.2759850</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:36.5022642</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N2/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:47:50.2889044</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:00.4063240</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:00.4063250</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:00.4063240</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:05.4393570</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Guardia Grande Pastura I</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:48:46.8307741</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:56.5418697</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:12.1650000</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:12.1649990</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:56.5418697</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 3/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:49:34.5646912</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:47.7339171</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:01:25.8734150</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:47.7339171</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Grande Pastura II</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:50:38.0706424</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:03.5059512</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:09.8395490</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:09.8395470</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:03.5059512</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 4/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:51:06.3359205</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:28.2652781</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:29.4858310</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:29.4858300</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:28.2652781</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 5/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:52:08.7175028</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:02.3815823</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:01:15.0773830</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:02.3815823</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N3/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:52:51.9594405</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:43.2419377</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:43.6122200</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:43.6122190</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:43.2419377</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 6/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:53:05.5871532</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:13.6277127</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:15.2159310</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:15.2159300</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:13.6277127</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Platteforma Grande Pasturia</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:54:29.6590591</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:24.0719059</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:01:38.9614970</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:24.0719059</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N4/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:56:41.8955439</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:59.9387600</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:59.9387610</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:59.9387600</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:02:12.2364848</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Grande Pastura III</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:58:03.7736805</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:18.4267620</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:00:18.4267620</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:21.8781366</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 7/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:59:07.9712633</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:04.1975828</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:02:10.8951060</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:04.1975828</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N5/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:00:07.8724493</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:59.9011860</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:01:39.1381850</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:01:39.1381840</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:59.9011860</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Grand Slalom Sprint</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:02:41.7273032</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:02:33.8548539</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:03:40.0747100</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:02:33.8548539</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tank Frenzy III</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:04:25.9089222</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:44.1816190</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:01:56.6306690</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:44.1816190</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 8/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:05:54.6542073</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:28.7452851</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:02:20.3960510</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:02:20.3960500</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:28.7452851</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N6/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:06:18.0960506</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:00.9357110</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:00.9357110</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:00.9357120</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:23.4418433</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N7/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:06:44.9333015</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:26.8372509</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:36.1339030</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:36.1339020</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:26.8372509</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Snowy Slopes Tour</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:10:05.9158343</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:03:07.8355030</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:03:07.8355030</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:03:20.9825328</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Vintage Part N5/22</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:10:27.3607669</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:21.4449326</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:35.3880200</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:35.3880190</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:21.4449326</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Round the Bend Blast</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:16:12.2295308</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:03:33.4401880</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:03:33.4401880</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:05:44.8687639</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Tomb 6/23</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:16:32.0901815</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:19.8606507</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:02:18.2462750</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:02:18.2462740</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:19.8606507</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Cloudy Crevasse Tour</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:22:01.6500809</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:05:29.5598994</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:06:21.9371550</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:05:29.5598994</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Mountain Marathon Tour</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:27:23.0790540</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:05:21.4289731</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:10:52.2829530</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:05:21.4289731</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Di Ravello Tape 9/71</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:28:15.2220722</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:41.8405690</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="29">
-          <RealTime>00:00:41.8405690</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:52.1430182</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Rebel Shrine N3/21</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:28:21.0584767</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:05.8364045</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-4">
-          <RealTime>00:00:12.7798530</RealTime>
-        </Time>
-        <Time id="29">
-          <RealTime>00:00:12.7798520</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:00:05.8364045</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
