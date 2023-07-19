@@ -137,23 +137,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 9 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:20.6625752</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:20.6625752</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="43">
-          <RealTime>00:00:20.6625752</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Badlands Tour</Name>
       <Icon />
       <SplitTimes>
@@ -162,11 +145,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:17.2007300</RealTime>
+        <RealTime>00:01:37.8633052</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="43">
-          <RealTime>00:01:17.2007300</RealTime>
+          <RealTime>00:01:37.8633052</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
