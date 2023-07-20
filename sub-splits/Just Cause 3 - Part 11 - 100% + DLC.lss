@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 11</GameName>
+  <GameName>Just Cause 3 - Part 11    7:11:15</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -143,23 +143,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 11 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:01.2595049</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:01.2595049</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="45">
-          <RealTime>00:00:01.2595049</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Motar Frenzy</Name>
       <Icon />
       <SplitTimes>
@@ -168,11 +151,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:23.6150906</RealTime>
+        <RealTime>00:01:24.8745955</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="45">
-          <RealTime>00:01:23.6150906</RealTime>
+          <RealTime>00:01:24.8745955</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
