@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 12</GameName>
+  <GameName>Just Cause 3 - Part 12     7:42:20</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -149,26 +149,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 12 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:03.4340649</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:03.4340649</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="46">
-          <RealTime>00:01:45.7449645</RealTime>
-        </Time>
-        <Time id="47">
-          <RealTime>00:00:03.4340649</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Support Vehicle Frenzy</Name>
       <Icon />
       <SplitTimes>
@@ -177,14 +157,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:01.8075807</RealTime>
+        <RealTime>00:00:05.2416456</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="46">
-          <RealTime>00:00:01.8075807</RealTime>
+          <RealTime>00:01:47.5525452</RealTime>
         </Time>
         <Time id="47">
-          <RealTime>00:01:42.3076181</RealTime>
+          <RealTime>00:01:45.7416830</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
