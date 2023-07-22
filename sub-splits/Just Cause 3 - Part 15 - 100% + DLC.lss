@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 15</GameName>
+  <GameName>Just Cause 3 - Part 15    9:45:50</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -155,23 +155,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 15 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:00.3416357</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:00.3416357</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="49">
-          <RealTime>00:00:00.3416357</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Daredevil Jump E11/13</Name>
       <Icon />
       <SplitTimes>
@@ -180,11 +163,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:01.3967790</RealTime>
+        <RealTime>00:01:01.7384147</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="49">
-          <RealTime>00:01:01.3967790</RealTime>
+          <RealTime>00:01:01.7384147</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
