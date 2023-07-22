@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 13</GameName>
+  <GameName>Just Cause 3 - Part 13    8:29:40</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -149,23 +149,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 13 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:04.7669255</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:04.7669255</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="47">
-          <RealTime>00:00:04.7669255</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Strip Mine Sprint</Name>
       <Icon />
       <SplitTimes>
@@ -174,11 +157,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:46.4931356</RealTime>
+        <RealTime>00:01:51.2600611</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="47">
-          <RealTime>00:01:46.4931356</RealTime>
+          <RealTime>00:01:51.2600611</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
