@@ -152,23 +152,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 14 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:01.1358495</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:01.1358495</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="48">
-          <RealTime>00:00:01.1358495</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Helicopter Frenzy II</Name>
       <Icon />
       <SplitTimes>
@@ -177,11 +160,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:12.4477859</RealTime>
+        <RealTime>00:02:13.5836354</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="48">
-          <RealTime>00:02:12.4477859</RealTime>
+          <RealTime>00:02:13.5836354</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
