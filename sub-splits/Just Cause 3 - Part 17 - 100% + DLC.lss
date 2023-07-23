@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 - Part 17</GameName>
+  <GameName>Just Cause 3 - Part 17     10:48:30</GameName>
   <CategoryName>100% + DLC</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -162,23 +162,6 @@
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>---------- Part 17 ----------</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:02.0882546</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:02.0882546</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="51">
-          <RealTime>00:00:02.0882546</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Stowaway</Name>
       <Icon />
       <SplitTimes>
@@ -187,11 +170,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:06.9818205</RealTime>
+        <RealTime>00:10:09.0700751</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="51">
-          <RealTime>00:10:06.9818205</RealTime>
+          <RealTime>00:10:09.0700751</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
