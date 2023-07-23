@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>28</AttemptCount>
+  <AttemptCount>29</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
       <PauseTime>21:53:38.9590000</PauseTime>
@@ -155,13 +155,19 @@
     <Attempt id="50" started="06/29/2023 22:38:45" isStartedSynced="True" ended="06/29/2023 23:50:25" isEndedSynced="True">
       <PauseTime>00:14:32.7462160</PauseTime>
     </Attempt>
+    <Attempt id="51" started="07/23/2023 15:32:07" isStartedSynced="True" ended="07/23/2023 16:29:28" isEndedSynced="True">
+      <RealTime>00:52:38.7077058</RealTime>
+      <PauseTime>00:04:42.7454503</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Liberate Joule</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:30.3748214</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:25.3131656</RealTime>
@@ -170,13 +176,18 @@
         <Time id="50">
           <RealTime>00:02:25.3131656</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:30.3748214</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Callaghan Tape 1/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:16.2504552</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:35.5938857</RealTime>
@@ -185,13 +196,18 @@
         <Time id="50">
           <RealTime>00:00:35.5938857</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:45.8756338</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Callaghan Tape 2/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:48.5365905</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:12.2830052</RealTime>
@@ -200,20 +216,28 @@
         <Time id="50">
           <RealTime>00:00:12.2830052</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:32.2861353</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Farad</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:54.2190353</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:09.2117322</RealTime>
+        <RealTime>00:02:05.6824448</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:02:09.2117322</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:02:05.6824448</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -221,7 +245,9 @@
       <Name>Callaghan Tape 3/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:17.0580638</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:16.1469672</RealTime>
@@ -230,20 +256,28 @@
         <Time id="50">
           <RealTime>00:00:16.1469672</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:22.8390285</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Coulomb</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:24.7023113</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:12.3888157</RealTime>
+        <RealTime>00:03:07.6442475</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:03:12.3888157</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:03:07.6442475</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -251,7 +285,9 @@
       <Name>Callaghan Tape 4/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:45.9052310</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:18.2455433</RealTime>
@@ -260,13 +296,18 @@
         <Time id="50">
           <RealTime>00:00:18.2455433</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:21.2029197</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Callaghan Tape 5/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:36.9530179</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:23.1027719</RealTime>
@@ -275,20 +316,28 @@
         <Time id="50">
           <RealTime>00:00:23.1027719</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:51.0477869</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Callaghan Tape 6/16</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:05.7758564</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:42.2579854</RealTime>
+        <RealTime>00:01:28.8228385</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:01:42.2579854</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:28.8228385</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -296,14 +345,19 @@
       <Name>Liberate Henry</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:36.0845687</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:34.0515933</RealTime>
+        <RealTime>00:01:30.3087123</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:02:34.0515933</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:30.3087123</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -311,14 +365,19 @@
       <Name>Callaghan Tape 7/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:00.7846893</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:30.5115844</RealTime>
+        <RealTime>00:00:24.7001206</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:30.5115844</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:24.7001206</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -326,14 +385,19 @@
       <Name>Liberate Pascal</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:57.7926998</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:46.9306617</RealTime>
+        <RealTime>00:01:57.0080105</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:02:46.9306617</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:57.0080105</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -341,7 +405,9 @@
       <Name>Callaghan Tape 8/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:18.4485833</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:01.0568660</RealTime>
@@ -350,20 +416,28 @@
         <Time id="50">
           <RealTime>00:00:01.0568660</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:20.6558835</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Callaghan Tape 9/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:29.5561997</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:50.4891697</RealTime>
+        <RealTime>00:00:11.1076164</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:50.4891697</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:11.1076164</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -371,14 +445,19 @@
       <Name>Callaghan Tape 10/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:43.3361504</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:34.8945944</RealTime>
+        <RealTime>00:01:13.7799507</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:01:34.8945944</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:13.7799507</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -386,14 +465,19 @@
       <Name>The Setup</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:29.6558541</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:14:29.7275464</RealTime>
+        <RealTime>00:11:46.3197037</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:14:29.7275464</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:11:46.3197037</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -401,14 +485,19 @@
       <Name>Callaghan Tape 11/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:05.3706310</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:20.8262548</RealTime>
+        <RealTime>00:02:35.7147769</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:03:20.8262548</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:02:35.7147769</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -416,14 +505,19 @@
       <Name>Callaghan Tape 12/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:20.3954801</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:48.7194284</RealTime>
+        <RealTime>00:00:15.0248491</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:48.7194284</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:15.0248491</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -431,14 +525,19 @@
       <Name>Callaghan Tape 13/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:37.3051469</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:28.5351993</RealTime>
+        <RealTime>00:00:16.9096668</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:01:28.5351993</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:16.9096668</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -446,14 +545,19 @@
       <Name>Callaghan Tape 14/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:08.8805417</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:04.0861637</RealTime>
+        <RealTime>00:01:31.5753948</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:03:04.0861637</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:31.5753948</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -461,14 +565,19 @@
       <Name>Callaghan Tape 15/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:23.2098212</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:00.3595924</RealTime>
+        <RealTime>00:01:14.3292795</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:02:00.3595924</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:14.3292795</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -476,14 +585,19 @@
       <Name>Callaghan Tape 16/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:29.7388284</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:35.3688610</RealTime>
+        <RealTime>00:01:06.5290072</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:01:35.3688610</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:06.5290072</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -491,14 +605,19 @@
       <Name>Callaghan Tape 17/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:52.1363535</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:23.1489332</RealTime>
+        <RealTime>00:00:22.3975251</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:23.1489332</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:22.3975251</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -506,14 +625,19 @@
       <Name>Callaghan Tape 18/18</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:12.6334724</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:24.9510518</RealTime>
+        <RealTime>00:00:20.4971189</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:24.9510518</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:00:20.4971189</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -521,14 +645,19 @@
       <Name>The Heist Begins</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:45:50.4538622</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:29.1243036</RealTime>
+        <RealTime>00:08:37.8203898</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:09:29.1243036</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:08:37.8203898</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -536,7 +665,9 @@
       <Name>Boat Invaders</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:52:38.7077058</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:05.4939534</RealTime>
@@ -544,6 +675,9 @@
       <SegmentHistory>
         <Time id="50">
           <RealTime>00:00:05.4939534</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:06:48.2538436</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
