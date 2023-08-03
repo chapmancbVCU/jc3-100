@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>17</AttemptCount>
+  <AttemptCount>20</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
       <PauseTime>21:53:38.9590000</PauseTime>
@@ -126,6 +126,8 @@
       <RealTime>01:25:36.2086835</RealTime>
       <PauseTime>00:00:26.8720093</PauseTime>
     </Attempt>
+    <Attempt id="41" started="08/03/2023 20:57:33" isStartedSynced="True" ended="08/03/2023 20:57:55" isEndedSynced="True" />
+    <Attempt id="42" started="08/03/2023 20:57:57" isStartedSynced="True" ended="08/03/2023 20:59:05" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -369,7 +371,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Revolver Training Course</Name>
+      <Name>Revolver Training Course + Restart</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">

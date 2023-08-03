@@ -3109,7 +3109,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Revolver Training Course</Name>
+      <Name>Revolver Training Course + Restart</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
