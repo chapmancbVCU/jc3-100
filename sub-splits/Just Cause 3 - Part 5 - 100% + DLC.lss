@@ -159,7 +159,6 @@
         <RealTime>00:00:24.8611419</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="38">
           <RealTime>00:00:25.4475782</RealTime>
         </Time>
@@ -180,7 +179,6 @@
         <RealTime>00:04:10.6003910</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="27">
           <RealTime>00:04:44.0120410</RealTime>
         </Time>
@@ -204,7 +202,6 @@
         <RealTime>00:01:18.5512262</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
         <Time id="38">
           <RealTime>00:02:14.6068949</RealTime>
         </Time>
@@ -225,8 +222,6 @@
         <RealTime>00:00:27.4960840</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="38">
           <RealTime>00:00:27.5728363</RealTime>
         </Time>
@@ -247,8 +242,6 @@
         <RealTime>00:02:28.5534457</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="38">
           <RealTime>00:02:28.5534457</RealTime>
         </Time>
@@ -269,8 +262,6 @@
         <RealTime>00:00:10.9920842</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="-3" />
-        <Time id="27" />
         <Time id="38">
           <RealTime>00:00:11.5275409</RealTime>
         </Time>
@@ -280,11 +271,31 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Liberate Guardia Massos I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:44.8238736</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.7234216</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="38">
+          <RealTime>00:00:01.7234216</RealTime>
+        </Time>
+        <Time id="40">
+          <RealTime>00:00:28.6395452</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Three's Company</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:21:04.0637150</RealTime>
+          <RealTime>00:21:32.7032602</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -310,7 +321,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:23:01.7219246</RealTime>
+          <RealTime>00:23:30.3614698</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -336,7 +347,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:23:41.9262474</RealTime>
+          <RealTime>00:24:10.5657926</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -348,26 +359,6 @@
         </Time>
         <Time id="40">
           <RealTime>00:00:40.2043228</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Liberate Guardia Massos I</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:24:10.5657926</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:01.7234216</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="38">
-          <RealTime>00:00:01.7234216</RealTime>
-        </Time>
-        <Time id="40">
-          <RealTime>00:00:28.6395452</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
