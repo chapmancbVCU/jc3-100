@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>20</AttemptCount>
+  <AttemptCount>23</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
       <PauseTime>21:53:38.9590000</PauseTime>
@@ -135,6 +135,11 @@
     <Attempt id="48" started="08/12/2023 16:42:04" isStartedSynced="True" ended="08/12/2023 17:12:26" isEndedSynced="True">
       <RealTime>00:30:21.5818498</RealTime>
     </Attempt>
+    <Attempt id="49" started="08/13/2023 00:41:48" isStartedSynced="True" ended="08/13/2023 00:47:48" isEndedSynced="True" />
+    <Attempt id="50" started="08/13/2023 00:49:16" isStartedSynced="True" ended="08/13/2023 00:53:49" isEndedSynced="True" />
+    <Attempt id="51" started="08/13/2023 00:55:18" isStartedSynced="True" ended="08/13/2023 01:25:07" isEndedSynced="True">
+      <RealTime>00:29:49.4619303</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -142,7 +147,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:02:52.8907758</RealTime>
+          <RealTime>00:02:36.9356033</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -191,6 +196,15 @@
         <Time id="48">
           <RealTime>00:02:52.8907758</RealTime>
         </Time>
+        <Time id="49">
+          <RealTime>00:03:08.4097748</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:02:51.7697203</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:02:36.9356033</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -198,7 +212,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:57.5054543</RealTime>
+          <RealTime>00:03:44.2339181</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -247,6 +261,15 @@
         <Time id="48">
           <RealTime>00:01:04.6146785</RealTime>
         </Time>
+        <Time id="49">
+          <RealTime>00:01:03.2062748</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:01:04.6796283</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:01:07.2983148</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -254,7 +277,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:06:55.8222845</RealTime>
+          <RealTime>00:05:58.6328942</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -300,6 +323,9 @@
         <Time id="48">
           <RealTime>00:02:58.3168302</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:14.3989761</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -307,7 +333,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:22.5754518</RealTime>
+          <RealTime>00:08:12.1547885</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -338,6 +364,9 @@
         <Time id="48">
           <RealTime>00:02:26.7531673</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:13.5218943</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -345,11 +374,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:44.8700405</RealTime>
+          <RealTime>00:09:31.8259920</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:22.0454344</RealTime>
+        <RealTime>00:01:19.6712035</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-4">
@@ -376,6 +405,9 @@
         <Time id="48">
           <RealTime>00:01:22.2945887</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:01:19.6712035</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -383,11 +415,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:13:22.0087659</RealTime>
+          <RealTime>00:12:08.0421806</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:37.1387254</RealTime>
+        <RealTime>00:02:36.2161886</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="29">
@@ -411,6 +443,9 @@
         <Time id="48">
           <RealTime>00:02:37.1387254</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:36.2161886</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -418,7 +453,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:16:04.6367763</RealTime>
+          <RealTime>00:14:48.9233351</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -449,6 +484,9 @@
         <Time id="48">
           <RealTime>00:02:42.6280104</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:40.8811545</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -456,7 +494,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:16:46.5673601</RealTime>
+          <RealTime>00:15:26.4075744</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -484,6 +522,9 @@
         <Time id="48">
           <RealTime>00:00:41.9305838</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:37.4842393</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -491,7 +532,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:17:21.8307829</RealTime>
+          <RealTime>00:16:12.4079752</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -522,6 +563,9 @@
         <Time id="48">
           <RealTime>00:00:35.2634228</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:00:46.0004008</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -529,11 +573,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:21:08.9169923</RealTime>
+          <RealTime>00:18:42.3525648</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:25.4547245</RealTime>
+        <RealTime>00:02:29.9445896</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="29">
@@ -557,6 +601,9 @@
         <Time id="48">
           <RealTime>00:03:47.0862094</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:02:29.9445896</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -564,7 +611,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:23:22.4181143</RealTime>
+          <RealTime>00:22:38.2598364</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -592,6 +639,9 @@
         <Time id="48">
           <RealTime>00:02:13.5011220</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:03:55.9072716</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -599,7 +649,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:25:01.4353048</RealTime>
+          <RealTime>00:24:15.9592519</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -630,6 +680,9 @@
         <Time id="48">
           <RealTime>00:01:39.0171905</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:01:37.6994155</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -637,7 +690,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:26:50.0958151</RealTime>
+          <RealTime>00:26:06.6706617</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -668,6 +721,9 @@
         <Time id="48">
           <RealTime>00:01:48.6605103</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:01:50.7114098</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -675,7 +731,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:28:20.0416163</RealTime>
+          <RealTime>00:27:42.6818562</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -706,6 +762,9 @@
         <Time id="48">
           <RealTime>00:01:29.9458012</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:01:36.0111945</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -713,7 +772,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:21.5818498</RealTime>
+          <RealTime>00:29:49.4619303</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -740,6 +799,9 @@
         </Time>
         <Time id="48">
           <RealTime>00:02:01.5402335</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:02:06.7800741</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
