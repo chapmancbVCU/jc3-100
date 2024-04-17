@@ -2677,21 +2677,6 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Liberate Guardia Massos IV</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:06.8331380</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="27">
-          <RealTime>00:00:06.8331380</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>Liberate Guardia Capite III</Name>
       <Icon />
       <SplitTimes>
@@ -2741,6 +2726,21 @@
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos IV</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:06.8331380</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="27">
+          <RealTime>00:00:06.8331380</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Liberate Guardia Massos III</Name>
